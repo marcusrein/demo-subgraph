@@ -12,7 +12,7 @@
     "coverage": "graph test -- -c"
   },
   "dependencies": {
-    "@graphprotocol/graph-cli": "^0.23.1",
+    "@graphprotocol/graph-cli": "axiomatic-aardvark/graph-cli",
     "@graphprotocol/graph-ts": "^0.23.1",
     "matchstick-as": "git://github.com/LimeChain/matchstick-as.git"
   }
