@@ -24,7 +24,7 @@
     "js-tokens" "^4.0.0"
 
 "@graphprotocol/graph-cli@axiomatic-aardvark/graph-cli":
-  "resolved" "git+ssh://git@github.com/axiomatic-aardvark/graph-cli.git#97ea01f16a30b44b1e222b7c5f17cf6b84695c98"
+  "resolved" "git+ssh://git@github.com/axiomatic-aardvark/graph-cli.git#a81d0de10b65a02680d9f8c5a339d53602328daf"
   "version" "0.24.1"
   dependencies:
     "assemblyscript" "0.19.10"

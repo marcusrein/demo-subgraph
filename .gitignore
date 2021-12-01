@@ -4,6 +4,9 @@ tests/.bin/
 # Test coverage tools
 tests/.tools/
 
+# Test docker files
+tests/.docker/
+
 # Graph CLI
 generated/
 build/
