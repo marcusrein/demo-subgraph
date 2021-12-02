@@ -8,7 +8,7 @@
     "build": "graph build",
     "create-local": "graph create demo --node http://127.0.0.1:8020",
     "deploy-local": "graph deploy demo --ipfs http://localhost:5001 --node http://127.0.0.1:8020",
-    "test": "graph test -v 4",
+    "test": "graph test -v 0.1.5",
     "coverage": "graph test -- -c"
   },
   "dependencies": {
